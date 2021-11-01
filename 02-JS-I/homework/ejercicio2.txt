@@ -1,0 +1,17 @@
+Homework: Introducción a Javascript
+
+Instrucciones
+
+
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Variables: son todos los tipos datos guardados bajo un  nombre que luego pueden ser utilizados 
+
+Strings: son bloques o palabras o frases que van entre comillas simples o dobles por supuesto se pueden guardar dentro de una variable 
+
+Funciones (argumentos, return):son tipos particulares de objetos pero que tienen la particularidad de hacer ejecutar alguna tarea que se encuentr dentro de ella
+
+
+Declaraciones if: un if es una funcion de control o comparacion donde solamente puede ocurrir 2 cosas o se cumple o no se cumple es verdadero o falso
+
+Valores booleanos (true, false): son datos especiales que se usan mucho en logica comparativo pero solo tiene 2 resultados es v o f o es 1 o 0
