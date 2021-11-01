@@ -1,0 +1,16 @@
+# Homework: Javascript II
+
+## Instrucciones
+---
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `for`:
+
+Es otro de los controles de flujo con la opcion que esta puede hacer repeticiones de tareas hasta un limite que le damos como fin de la repeticion
+
+* `&&`: es un operador logico que se usa para unir 2 partes es el y de una frase que une 2 lineas o 2 palabras
+
+
+`||`: es un operador logico y es el o famoso cuando queremos que haga una cosa o la otra o cuando comparamos por ejemplo en el ejercicio ultimo del homework anterior tuve que utilizar para comparar las vocales con una letra ingresada si eran igual a alguna de las vocales 
+
+ `!`: es el no o sea es un simbolo para usar una negativa de algo
